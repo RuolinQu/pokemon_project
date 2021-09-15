@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`app should render snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <div
+      class="container"
+    >
+      <div
+        class="header-container"
+        id="header"
+      >
+        <h2
+          style="color: rgb(69, 68, 69);"
+        >
+          Pokemon Search
+        </h2>
+      </div>
+      <div
+        class="searchBar-container"
+      >
+        <input
+          value=""
+        />
+        <button
+          class="searchButton"
+        >
+          Search
+        </button>
+      </div>
+      <section
+        class="content-section"
+      />
+      <footer
+        class="footer"
+      >
+        <button
+          class="pageButton"
+          disabled=""
+        >
+          ←previous page
+        </button>
+        <button
+          class="pageButton"
+        >
+          next page→
+        </button>
+      </footer>
+    </div>
+  </div>
+</DocumentFragment>
+`;
